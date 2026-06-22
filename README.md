@@ -21,7 +21,7 @@ public class NaveenGupta {
     String degree      = "MCA — Amity University ✅ (Completed)";
     String undergrad   = "BCA — SMS Varanasi";
     String location    = "Noida, India";
-    String role        = "Java Full Stack Developer";
+    String role        = "Full Stack Developer";
     String status      = "🔥 Actively Seeking Full-Time Opportunities";
  
     String[] techStack = {
