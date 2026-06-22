@@ -1,8 +1,8 @@
 <div align="center">
-
+ 
 # 👋 Hi, I'm Naveen Gupta
  
-###  Full Stack Developer | Java & Node.js | DSA Enthusiast | Problem Solver | Open to Opportunities 🚀
+### Aspiring Software Engineer | BCA + MCA | Java | MERN Stack | Problem Solver | Open to Opportunities 🚀
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naveen--gupta--developer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-gupta-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-Naveen--Gupta123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen-Gupta123)
